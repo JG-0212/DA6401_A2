@@ -1,2 +1,4 @@
 # DA6401_A2
-This repository contains the assignment 2 of the course Fundamentals of Deep Learning
+## Steps to recreate ##
+- For Part A, run [Assignment_2A.ipynb](Assignment_2A.ipynb) till the sweep section.
+- For Part B, run [Assignment_2B.ipynb](Assignment_2B.ipynb) fully. 
